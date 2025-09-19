@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Daon (김다온)
+# 👋 안녕하세요, 김다온입니다
 
-🎨 **UI/UX Designer** (Figma) & 💻 **Frontend Developer**  
-Specialized in building clean, interactive interfaces with **Next.js**, **React**, **TypeScript**, and **TailwindCSS**.  
-I love blending design and code to deliver pixel-perfect, intuitive experiences.  
+🎨 **UI/UX 디자이너(Figma)** & 💻 **프론트엔드 개발자**  
+**Next.js · React · TypeScript · TailwindCSS** 를 중심으로,  
+깔끔하고 직관적인 사용자 경험을 설계하고 구현합니다.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 기술 스택
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,nextjs,react,typescript,javascript,tailwind,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 통계
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Da0nn-Dev&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da0nn-Dev&layout=compact&theme=radical" height="165"/>
@@ -21,24 +21,14 @@ I love blending design and code to deliver pixel-perfect, intuitive experiences.
 
 ---
 
-## 🔥 Streak & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&theme=radical" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_ID&theme=radical" height="165"/>
-</p>
+## ✨ 소개
+- 🌱 현재 **프론트엔드 (Redux, zustand, Recoil)** 학습 중  
+- 🎯 목표: **UI/UX 중심의 풀스택 개발자**로 성장  
+- 💡 디자인 시스템, Atomic Design, 새로운 개발 툴에 관심 (Framer) 
 
 ---
 
-## ✨ Fun Touch
-- 🌱 Currently improving **backend skills (Spring Boot, APIs, DB)**
-- 🎯 Goal: Become a **full-stack developer** with strong UI/UX foundation
-- 💡 Always curious about **design systems, atomic design, and new dev tools**
-
----
-
-## 📬 Connect with Me
+## 📬 연락하기
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_ID"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Da0nn-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
