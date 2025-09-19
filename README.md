@@ -15,8 +15,7 @@
 
 ## 📊 GitHub 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Da0nn-Dev&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da0nn-Dev&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Da0nn-Dev&show_icons=true&theme=radical" height="200"/>
 </p>
 
 ---
