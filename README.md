@@ -1,6 +1,7 @@
 <table>
   <tr>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdCzb86OancLSnkspXJ7gtUiSk_ZtI7QDviUfy0W_EdpmUJrcUVc1iDyXngtbUeY3wqU&usqp=CAU" width="100%"/></td>
+    <td><img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/fbLK/image/iuHlQGOkO5Qb3a7bIC6QCBpTWqw.jpg" width="100%"/></td>
   </tr>
 </table>
 <table>
@@ -9,8 +10,6 @@
     <td><img src="https://i.namu.wiki/i/WQ_xd3bMy_DsULPsQNgDq-FPZ9hJGMG2l-UclW-1TOkw0AM8vr3DRuiEBwCyq0YquFyOPHnnfmL0yuYs9iowDw.webp" width="100%"/></td>
   </tr>
 </table>
-<img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/fbLK/image/iuHlQGOkO5Qb3a7bIC6QCBpTWqw.jpg"/>
-
 <div align="center">
 
 # 👋 Da0nn-Dev  
